@@ -2,10 +2,8 @@
 
 ## Я - начинающий frontend-разработчик.
 Хочу развиваться в области веб-разработки, создавать качественные продукты. Эта область разработки понравилась мне, так как мне очень важно, чтобы моими продуктами пользовался большой круг людей. Все проекты сдаю вовремя, имею большую мотивацию для продолжения совершенствования своих навыков и повышения уровня знаний.
-About me
 
-
-Projects
+# Проекты
 
 
 
@@ -20,7 +18,7 @@ Projects
 ![Асинхронное_программирование](https://img.shields.io/badge/-Асинхронное_программирование-009898)
 ![CSS](https://img.shields.io/badge/-Express-6C8CD5)
 
-## Контакты
+### Контакты
 
 <!-- ![mail.ru](https://img.shields.io/badge/-8911238775-blue?style=for-the-badge&logo=maildotru) -->
 [![telegram](https://img.shields.io/badge/-@telegram-2C17B0?style=for-the-badge&logo=telegram)](https://t.me/Manukhov)
