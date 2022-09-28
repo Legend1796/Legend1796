@@ -22,7 +22,7 @@ Projects
 
 ## Контакты
 
-[![mail.ru](https://img.shields.io/badge/-mail.ru-blue?style=for-the-badge&logo=maildotru)](m_igor97@mail.ru)
+![mail.ru](https://img.shields.io/badge/-m_igor97@mail.ru-blue?style=for-the-badge&logo=maildotru)
 [![telegram](https://img.shields.io/badge/-@telegram-2C17B0?style=for-the-badge&logo=telegram)](https://t.me/Manukhov)
 
 m_igor97@mail.ru
