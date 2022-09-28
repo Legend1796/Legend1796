@@ -11,22 +11,13 @@ Projects
 
 ## Languages and Tools
 
-![Html](https://img.shields.io/badge/Html-COLOR)
+![HTML](https://img.shields.io/badge/-HTML-7109AA)
+![CSS](https://img.shields.io/badge/-CSS-2C17B0)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FEDF00)
+![Git](https://img.shields.io/badge/-Git-8EEA00)
+![ООП](https://img.shields.io/badge/-ООП-FE5F00)
+![React](https://img.shields.io/badge/-React-A50022)
+![Асинхронное_программирование](https://img.shields.io/badge/-Асинхронное_программирование-009898)
+![CSS](https://img.shields.io/badge/-Express-6C8CD5)
 
 Follow me
-
-
-<!--
-**Legend1796/Legend1796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
