@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Header
+[![Header](https://github.com/Legend1796/Legend1796/blob/main/asets/header.png)]
 
 
 About me
