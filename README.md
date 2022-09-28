@@ -16,5 +16,4 @@
 
 ### Контакты
 
-<!-- ![mail.ru](https://img.shields.io/badge/-8911238775-blue?style=for-the-badge&logo=maildotru) -->
 [![telegram](https://img.shields.io/badge/-@telegram-2C17B0?style=for-the-badge&logo=telegram)](https://t.me/Manukhov)
