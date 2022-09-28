@@ -9,7 +9,7 @@ Projects
 
 
 
-## Languages and Tools
+## Навыки и технологии
 
 ![HTML](https://img.shields.io/badge/-HTML-7109AA)
 ![CSS](https://img.shields.io/badge/-CSS-2C17B0)
@@ -20,4 +20,9 @@ Projects
 ![Асинхронное_программирование](https://img.shields.io/badge/-Асинхронное_программирование-009898)
 ![CSS](https://img.shields.io/badge/-Express-6C8CD5)
 
-Follow me
+## Контакты
+
+[![mail.ru](https://img.shields.io/badge/-mail.ru-blue?style=for-the-badge&logo=maildotru)](m_igor97@mail.ru)
+[![telegram](https://img.shields.io/badge/-@telegram-2C17B0?style=for-the-badge&logo=telegram)](https://t.me/Manukhov)
+
+m_igor97@mail.ru
