@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Old+Standard+TT&size=50&pause=1000&color=0C60FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Old+Standard+TT&size=50&pause=1000&color=0AAE6B&center=true&vCenter=true&width=800&height=70&lines=Hi+there!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <h1 align="center">Я - frontend-разработчик</h1>
 Хочу развиваться в области веб-разработки, создавать качественные продукты. Эта область разработки понравилась мне, так как мне очень важно, чтобы моими продуктами пользовался большой круг людей.
