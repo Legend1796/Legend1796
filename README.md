@@ -1,8 +1,7 @@
-<!-- [![Header](https://github.com/Legend1796/Legend1796/blob/main/asets/header.png)](https://movies-explorer-frontend-12siae1kf-legend1796.vercel.app/main) -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Old+Standard+TT&size=50&pause=1000&color=0C60FF&center=true&vCenter=true&width=800&height=100&lines=Hi+there!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ## Я - начинающий frontend-разработчик.
-Хочу развиваться в области веб-разработки, создавать качественные продукты. Эта область разработки понравилась мне, так как мне очень важно, чтобы моими продуктами пользовался большой круг людей. Все проекты сдаю вовремя, имею большую мотивацию для продолжения совершенствования своих навыков и повышения уровня знаний.
+Хочу развиваться в области веб-разработки, создавать качественные продукты. Эта область разработки понравилась мне, так как мне очень важно, чтобы моими продуктами пользовался большой круг людей.
 
 ## Навыки и технологии
 
@@ -17,6 +16,6 @@
 
 ### Контакты
 
-[![telegram](https://img.shields.io/badge/-@telegram-2C17B0?style=for-the-badge&logo=telegram)](https://t.me/Manukhov)
+[![telegram](https://img.shields.io/badge/-@telegram-2C27B0?style=for-the-badge&logo=telegram)](https://t.me/Manukhov)
 
 **Почта:** m_igor97@mail.ru
