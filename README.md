@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Old+Standard+TT&size=50&pause=1000&color=0AAE6B&center=true&vCenter=true&width=800&height=70&lines=Hi+there!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <h1 align="center">Я - frontend-разработчик</h1>
-<p align="center">
-Постоянно совершенствую свои навыки в области веб-разработки.
-Исследую новые технологии.
-Работаю над созданием качественных продуктов.
-</p>
+<div align="center">
+<p>Постоянно совершенствую свои навыки в области веб-разработки.
+Исследую новые технологии.</p>
+<p>Работаю над созданием качественных продуктов.</p>
+</div>
 <h1 align="center">Навыки и технологии</h1>
 <p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
