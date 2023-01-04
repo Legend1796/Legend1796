@@ -28,4 +28,3 @@
   <img alt="Manukhov's mail" width="40px" src="https://www.svgrepo.com/show/349443/mail.svg" />
 </a>
 </div>
-**Почта:** m_igor97@mail.ru
