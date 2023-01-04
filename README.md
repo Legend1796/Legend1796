@@ -4,7 +4,7 @@
 <p align="center">
 Хочу развиваться в области веб-разработки, создавать качественные продукты. Эта область разработки понравилась мне, так как мне очень важно, чтобы моими продуктами пользовался большой круг людей.
 </p>
-<h1 align="center">## Навыки и технологии</h1>
+<h1 align="center">Навыки и технологии</h1>
 <p align="center">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS">
@@ -16,7 +16,7 @@
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code">
 </p>
 
-### Контакты
+<h2 align="center">Контакты</h1>
 
 [![telegram](https://img.shields.io/badge/-@telegram-2C27B0?style=for-the-badge&logo=telegram)](https://t.me/Manukhov)
 
