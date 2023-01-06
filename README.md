@@ -6,7 +6,7 @@
 <p>Исследую новые технологии.</p>
 &nbsp;
 <h1 align="center">Навыки и технологии</h1>
-
+ 
 <p align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
@@ -37,20 +37,22 @@
 
 <h1 align="center">Статистика</h1>
 
-<a  href="https://github.com/Legend1796/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Legend1796&hide=stars&show_icons=true&theme=tokyonight"/>
-</a>
-
-&nbsp;
-
+<p align="center">
+  <a href="https://wakatime.com/@7a8f5ef8-778d-43f8-bcdc-7f3cac8949e2"><img src="https://wakatime.com/badge/user/7a8f5ef8-778d-43f8-bcdc-7f3cac8949e2.svg" alt="Total time coded since Dec 19 2022" /></a> 
+</p>
+<p align="center">
 <a href="https://github.com/Legend1796/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legend1796&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Legend1796&layout=compact" />
 </a>
-
+</p>
+&nbsp;
+<p align="center">
+<a  href="https://github.com/Legend1796/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Legend1796&hide=stars&show_icons=true&theme=tokyonight"/>
+</a>
+</p>
 &nbsp;
 
 <!-- <a href="https://github.com/Legend1796/github-readme-stats">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/wakatime?username=Legend1796" />
+  <img src="(https://github-readme-stats.vercel.app/api/wakatime?username=Legend1796" />
 </a> -->
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Legend1796)](https://github.com/Legend1796/github-readme-stats)
