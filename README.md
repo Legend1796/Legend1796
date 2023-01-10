@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Old+Standard+TT&size=50&pause=1000&color=0AAE6B&center=true&vCenter=true&width=800&height=70&lines=Hi+there!;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <h1 align="center">Я - frontend-разработчик</h1>
-<p>Постоянно совершенствую свои навыки в области веб-разработки.</p>
-<p>Работаю над созданием качественных продуктов.</p>
-<p>Исследую новые технологии.</p>
+<p align="center">Постоянно совершенствую свои навыки в области веб-разработки.</p>
+<p align="center">Работаю над созданием качественных продуктов.</p>
+<p align="center">Исследую новые технологии.</p>
 &nbsp;
 <h1 align="center">Навыки и технологии</h1>
  
