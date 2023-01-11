@@ -52,7 +52,3 @@
 </a>
 </p>
 &nbsp;
-
-<!-- <a href="https://github.com/Legend1796/github-readme-stats">
-  <img src="(https://github-readme-stats.vercel.app/api/wakatime?username=Legend1796" />
-</a> -->
