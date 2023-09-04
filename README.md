@@ -11,6 +11,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="40" src="https://www.svgrepo.com/show/452093/redux.svg" alt="redux"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"></code>
@@ -26,7 +27,7 @@
   <img alt="Manukhov's Telegram" width="40px" src="https://www.svgrepo.com/show/354443/telegram.svg"/>
 </a>
 <a href="https://discordapp.com/users/353989085163028481">
-  <img alt="Manukhov's Discord" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img alt="Manukhov's Discord" width="40px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <a href="mailto:m_igor97@mail.com">&nbsp;
   <img alt="Manukhov's mail" width="40px" src="https://www.svgrepo.com/show/349443/mail.svg" />
